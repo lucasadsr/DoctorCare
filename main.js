@@ -69,4 +69,7 @@ ScrollReveal({
     #services .card,
     #about,
     #about header,
-    #about .content`, { delay: 100 });
+    #about .content,
+    #contact header,
+    #contact .content,
+    #contact img`, { delay: 100 });
