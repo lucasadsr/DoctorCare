@@ -2,17 +2,14 @@
 
 Projeto de uma landing page de uma clínica médica feita durante a NLW return da Rocketseat.
 
-## Screenshots
+## Screenshot
 
 ![App Screenshot](./assets/printNotebook.PNG)
-![App Screenshot](./assets/printCelular1.jpg)
-![App Screenshot](./assets/printCelular2.jpg)
-![App Screenshot](./assets/printCelular3.jpg)
 
 ## Techs
 
 - HTML
-- CSS
+- CSS - Responsividade
 - JavaScript
 
 ## Design
